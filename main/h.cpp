@@ -2,7 +2,7 @@
 #include <cmath>
 #include <vector>
 using namespace std;
-
+ 
 int main() {
     int _aAaAa = sizeof(char);
     int _bBbBb = sizeof(short);
